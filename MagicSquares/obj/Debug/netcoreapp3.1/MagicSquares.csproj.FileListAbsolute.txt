@@ -1,0 +1,13 @@
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\bin\Debug\netcoreapp3.1\MagicSquares.exe
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\bin\Debug\netcoreapp3.1\MagicSquares.deps.json
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\bin\Debug\netcoreapp3.1\MagicSquares.runtimeconfig.json
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\bin\Debug\netcoreapp3.1\MagicSquares.runtimeconfig.dev.json
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\bin\Debug\netcoreapp3.1\MagicSquares.dll
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\bin\Debug\netcoreapp3.1\MagicSquares.pdb
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\obj\Debug\netcoreapp3.1\MagicSquares.csprojAssemblyReference.cache
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\obj\Debug\netcoreapp3.1\MagicSquares.AssemblyInfoInputs.cache
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\obj\Debug\netcoreapp3.1\MagicSquares.AssemblyInfo.cs
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\obj\Debug\netcoreapp3.1\MagicSquares.csproj.CoreCompileInputs.cache
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\obj\Debug\netcoreapp3.1\MagicSquares.dll
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\obj\Debug\netcoreapp3.1\MagicSquares.pdb
+C:\Users\veteran\VisualStudioProjects\MagicSquares\MagicSquares\obj\Debug\netcoreapp3.1\MagicSquares.genruntimeconfig.cache
